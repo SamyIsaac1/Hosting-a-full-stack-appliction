@@ -8,7 +8,7 @@
 
 - `Continuous Deployment` is similar to continuous delivery but goes one step further and makes the complete process automatic without human approval.
 
-  ![Pipeline Process](/Digrams/Pipeline.png)
+  ![Pipeline Process](/docs/Digrams/Pipeline.png)
 
 ## Pipeline Process
 

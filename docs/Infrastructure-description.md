@@ -5,4 +5,4 @@
 3. AWS Relational Database Service(AWS RDS): It is a web service running "in the cloud" designed to simplify the setup, operation, and scaling of a relational database for use in applications. in our case we are going to us postgresSQL
 4. Identity and Access Management (IAM) Keys: can identify you to the AWS CLI. These keys hold associated permissions to give access to your account.
 
-![infrastructure](/Digrams/infrastructure.png)
+![infrastructure](/docs/Digrams/infrastructure.png)
